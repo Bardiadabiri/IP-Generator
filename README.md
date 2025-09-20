@@ -4,4 +4,4 @@ thanks for choosing my app <3
 
 
 https://raw.githubusercontent.com/Bardiadabiri/IP-Generator/main/IP%20Generator.rar
-link download !
+link download !  v1.0
